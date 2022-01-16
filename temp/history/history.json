@@ -1,0 +1,102 @@
+{
+  "0b19e90e005b401917b907b24877efa4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e5fae8d25330f89",
+      "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/5e5fae8d25330f89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241887425,
+        "stop" : 1642241887426,
+        "duration" : 1
+      }
+    } ]
+  },
+  "036bf9c51bbef73d31582c76cb27acfc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca002acf04ce4bb4",
+      "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/ca002acf04ce4bb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241887363,
+        "stop" : 1642241887363,
+        "duration" : 0
+      }
+    } ]
+  },
+  "72c15ecc94735892d0cc8976ee92ac28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ab7befea69d701",
+      "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/6ab7befea69d701",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241886983,
+        "stop" : 1642241886983,
+        "duration" : 0
+      }
+    } ]
+  },
+  "39d9bae2b213f4353efc876b47f733ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51e7da1773064486",
+      "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/51e7da1773064486",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241886977,
+        "stop" : 1642241886977,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6a5146b5e3cb23209915ef9aa2110632" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "641abefdd75fa03",
+      "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/641abefdd75fa03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241887430,
+        "stop" : 1642241887431,
+        "duration" : 1
+      }
+    } ]
+  }
+}

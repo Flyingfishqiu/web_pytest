@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 15 18:18:23 CST 2022","Sat Jan 15 18:18:23 CST 2022","1","testcase","test_case_01","TestCase","","","test_pengpeng[dingding]",""
+"passed","Sat Jan 15 18:18:23 CST 2022","Sat Jan 15 18:18:23 CST 2022","0","testcase","test_case_01","TestCase","","","test_pengpeng[jiajia]",""
+"passed","Sat Jan 15 18:18:23 CST 2022","Sat Jan 15 18:18:23 CST 2022","1","testcase","test_case_01","TestCase","","","test_xixi",""
+"passed","Sat Jan 15 18:18:23 CST 2022","Sat Jan 15 18:18:23 CST 2022","1","testcase","test_case_01","TestCase","","","test_dingding",""
+"passed","Sat Jan 15 18:18:23 CST 2022","Sat Jan 15 18:18:23 CST 2022","0","testcase","test_case_01","TestCase","","","test_jiajia",""

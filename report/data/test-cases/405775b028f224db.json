@@ -1,0 +1,99 @@
+{
+  "uid" : "405775b028f224db",
+  "name" : "test_dingding",
+  "fullName" : "testcase.test_case_01.TestCase#test_dingding",
+  "historyId" : "39d9bae2b213f4353efc876b47f733ae",
+  "time" : {
+    "start" : 1642241903463,
+    "stop" : 1642241903464,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VQTV6VS"
+  }, {
+    "name" : "thread",
+    "value" : "9764-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_case_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac2a75d19804e4c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241886977,
+        "stop" : 1642241886977,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2bb743608e78dd9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241000086,
+        "stop" : 1642241000086,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "51e7da1773064486",
+        "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/51e7da1773064486",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642241886977,
+          "stop" : 1642241886977,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "405775b028f224db.json",
+  "parameterValues" : [ ]
+}

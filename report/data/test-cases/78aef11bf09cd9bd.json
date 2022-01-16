@@ -1,0 +1,132 @@
+{
+  "uid" : "78aef11bf09cd9bd",
+  "name" : "test_pengpeng[dingding]",
+  "fullName" : "testcase.test_case_01.TestCase#test_pengpeng",
+  "historyId" : "036bf9c51bbef73d31582c76cb27acfc",
+  "time" : {
+    "start" : 1642241903604,
+    "stop" : 1642241903605,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "my_fixture",
+    "time" : {
+      "start" : 1642241903601,
+      "stop" : 1642241903602,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "my_fixture::0",
+    "time" : {
+      "start" : 1642241903607,
+      "stop" : 1642241903607,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VQTV6VS"
+  }, {
+    "name" : "thread",
+    "value" : "9764-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_case_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "my_fixture",
+    "value" : "'dingding'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "259b12548e734a3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241887363,
+        "stop" : 1642241887363,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1657d62fbeb4d229",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642241000511,
+        "stop" : 1642241000511,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ca002acf04ce4bb4",
+        "reportUrl" : "http://localhost:8080/job/test_frist_02/3/allure/#testresult/ca002acf04ce4bb4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642241887363,
+          "stop" : 1642241887363,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "78aef11bf09cd9bd.json",
+  "parameterValues" : [ "'dingding'" ]
+}

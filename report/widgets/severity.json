@@ -1,0 +1,51 @@
+[ {
+  "uid" : "1295bb6e11a95d42",
+  "name" : "test_xixi",
+  "time" : {
+    "start" : 1642241903656,
+    "stop" : 1642241903657,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "405775b028f224db",
+  "name" : "test_dingding",
+  "time" : {
+    "start" : 1642241903463,
+    "stop" : 1642241903464,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e41009b2b21ef8e9",
+  "name" : "test_pengpeng[jiajia]",
+  "time" : {
+    "start" : 1642241903469,
+    "stop" : 1642241903469,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0392a89dec10ffd",
+  "name" : "test_jiajia",
+  "time" : {
+    "start" : 1642241903648,
+    "stop" : 1642241903648,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78aef11bf09cd9bd",
+  "name" : "test_pengpeng[dingding]",
+  "time" : {
+    "start" : 1642241903604,
+    "stop" : 1642241903605,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
